@@ -1,4 +1,4 @@
-<w:document xmlns:wpc="http://schemas.microsoft.com/office/word/2010/wordprocessingCanvas" xmlns:cx="http://schemas.microsoft.com/office/drawing/2014/chartex" xmlns:cx1="http://schemas.microsoft.com/office/drawing/2015/9/8/chartex" xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" xmlns:o="urn:schemas-microsoft-com:office:office" xmlns:r="http://schemas.openxmlformats.org/officeDocument/2006/relationships" xmlns:m="http://schemas.openxmlformats.org/officeDocument/2006/math" xmlns:v="urn:schemas-microsoft-com:vml" xmlns:wp14="http://schemas.microsoft.com/office/word/2010/wordprocessingDrawing" xmlns:wp="http://schemas.openxmlformats.org/drawingml/2006/wordprocessingDrawing" xmlns:w10="urn:schemas-microsoft-com:office:word" xmlns:w="http://schemas.openxmlformats.org/wordprocessingml/2006/main" xmlns:w14="http://schemas.microsoft.com/office/word/2010/wordml" xmlns:w15="http://schemas.microsoft.com/office/word/2012/wordml" xmlns:w16se="http://schemas.microsoft.com/office/word/2015/wordml/symex" xmlns:wpg="http://schemas.microsoft.com/office/word/2010/wordprocessingGroup" xmlns:wpi="http://schemas.microsoft.com/office/word/2010/wordprocessingInk" xmlns:wne="http://schemas.microsoft.com/office/word/2006/wordml" xmlns:wps="http://schemas.microsoft.com/office/word/2010/wordprocessingShape" mc:Ignorable="w14 w15 w16se wp14">
+<w:document xmlns:wpc="http://schemas.microsoft.com/office/word/2010/wordprocessingCanvas" xmlns:cx="http://schemas.microsoft.com/office/drawing/2014/chartex" xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" xmlns:o="urn:schemas-microsoft-com:office:office" xmlns:r="http://schemas.openxmlformats.org/officeDocument/2006/relationships" xmlns:m="http://schemas.openxmlformats.org/officeDocument/2006/math" xmlns:v="urn:schemas-microsoft-com:vml" xmlns:wp14="http://schemas.microsoft.com/office/word/2010/wordprocessingDrawing" xmlns:wp="http://schemas.openxmlformats.org/drawingml/2006/wordprocessingDrawing" xmlns:w10="urn:schemas-microsoft-com:office:word" xmlns:w="http://schemas.openxmlformats.org/wordprocessingml/2006/main" xmlns:w14="http://schemas.microsoft.com/office/word/2010/wordml" xmlns:w15="http://schemas.microsoft.com/office/word/2012/wordml" xmlns:w16se="http://schemas.microsoft.com/office/word/2015/wordml/symex" xmlns:wpg="http://schemas.microsoft.com/office/word/2010/wordprocessingGroup" xmlns:wpi="http://schemas.microsoft.com/office/word/2010/wordprocessingInk" xmlns:wne="http://schemas.microsoft.com/office/word/2006/wordml" xmlns:wps="http://schemas.microsoft.com/office/word/2010/wordprocessingShape" mc:Ignorable="w14 w15 w16se wp14">
 <w:body>
 <w:p w:rsidR="00E83F7F" w:rsidRPr="00742991" w:rsidRDefault="00E83F7F" w:rsidP="00E83F7F">
 <w:pPr>
@@ -9,21 +9,14 @@
 <w:lang w:val="en-US"/>
 </w:rPr>
 </w:pPr>
-<w:proofErr w:type="gramStart"/>
+<w:bookmarkStart w:id="0" w:name="_GoBack"/>
+<w:bookmarkEnd w:id="0"/>
 <w:r w:rsidRPr="00742991">
 <w:rPr>
 <w:b/>
 <w:lang w:val="en-US"/>
 </w:rPr>
-<w:t>itt2020{</w:t>
-</w:r>
-<w:proofErr w:type="gramEnd"/>
-<w:r w:rsidRPr="00742991">
-<w:rPr>
-<w:b/>
-<w:lang w:val="en-US"/>
-</w:rPr>
-<w:t>SuperHacker4000}</w:t>
+<w:t>itt2020{SuperHacker4000}</w:t>
 </w:r>
 </w:p>
 <w:p w:rsidR="00E83F7F" w:rsidRPr="00E9442C" w:rsidRDefault="00E83F7F" w:rsidP="00742991">
@@ -141,11 +134,6 @@
 <w:lang w:val="en-US"/>
 </w:rPr>
 <w:br/>
-</w:r>
-<w:r>
-<w:rPr>
-<w:lang w:val="en-US"/>
-</w:rPr>
 <w:t>the quality.</w:t>
 </w:r>
 <w:r w:rsidRPr="008C1DB3">
@@ -226,21 +214,7 @@
 <w:rPr>
 <w:lang w:val="en-US"/>
 </w:rPr>
-<w:t xml:space="preserve">black and white for </w:t>
-</w:r>
-<w:proofErr w:type="gramStart"/>
-<w:r w:rsidRPr="008C1DB3">
-<w:rPr>
-<w:lang w:val="en-US"/>
-</w:rPr>
-<w:t>5</w:t>
-</w:r>
-<w:proofErr w:type="gramEnd"/>
-<w:r w:rsidRPr="008C1DB3">
-<w:rPr>
-<w:lang w:val="en-US"/>
-</w:rPr>
-<w:t xml:space="preserve"> frames, and I </w:t>
+<w:t xml:space="preserve">black and white for 5 frames, and I </w:t>
 </w:r>
 <w:r>
 <w:rPr>
@@ -275,8 +249,6 @@ restarted the engine - I pressed the fourth button on top.
 </w:rPr>
 <w:t>400.</w:t>
 </w:r>
-<w:bookmarkStart w:id="0" w:name="_GoBack"/>
-<w:bookmarkEnd w:id="0"/>
 </w:p>
 <w:p w:rsidR="001650EE" w:rsidRDefault="001650EE">
 <w:pPr>
